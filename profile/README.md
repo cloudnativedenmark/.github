@@ -1,3 +1,3 @@
-# CloudNative Nordics Github Org
+# CloudNative Denmarks Github Org
 
 
